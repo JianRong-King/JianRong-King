@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is King Jian Rong and I'm a incoming FullStack Developer from Malaysia</h2>
+<h2 align="left">Hi 👋! My name is King Jian Rong</h2>
+<h3>I'm a incoming FullStack Developer from Malaysia</h3>
 
 ###
 
