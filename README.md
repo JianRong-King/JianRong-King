@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is King Jian Rong</h2>
 <h3>From Malaysia</h3>
+<h2 href="https://porfolio-nextjs-cj4t-kjrs-projects-930869a8.vercel.app/" target="_blank">Check out my porfolio!</h2>
 <h4>Currently Learning Pytorch & Data Modelling pipelines</h4>
 
 
