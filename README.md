@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! My name is King Jian Rong</h2>
 <h3>From Malaysia</h3>
-
-<h4>Strong interest on FullStack dev & ML dev/application</h4>
-
+<h4>Currently Learning Pytorch & Data Modelling pipelines</h4>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JianRong-King&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JianRong-King&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -29,12 +26,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/jianrong2004/" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/jianrong-king" />
-</div>
-
 
 ###
 
