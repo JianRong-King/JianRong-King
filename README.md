@@ -4,7 +4,7 @@
   Check out my portfolio!
 </a>
 
-<h4>Currently Learning Pytorch & Data Modelling pipelines</h4>
+<h4>Currently Learning Pytorch & Deep Learning Modelling pipelines</h4>
 
 
 <div align="center">
