@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is King Jian Rong</h2>
 <h3>From Malaysia</h3>
-<a href="https://portfolio-five-henna-95.vercel.app/" target="_blank">
-  
+<a href="https://portfolio-five-henna-95.vercel.app/" target="_blank" rel="noopener noreferrer">
   Check out my portfolio!
 </a>
 
