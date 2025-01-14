@@ -5,7 +5,7 @@
 </a>
 
 
-<h4>Currently Learning Pytorch & Deep Learning Modelling pipelines</h4>
+
 
 
 <div align="center">
