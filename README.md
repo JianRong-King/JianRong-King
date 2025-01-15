@@ -1,9 +1,10 @@
+<div>
 <h2 align="left">Hi 👋! My name is King Jian Rong</h2>
 <h3>From Malaysia</h3>
 <a href="https://kingjianrong.vercel.app/" target="_blank" rel="noopener noreferrer">
   Check out my portfolio!
 </a>
-
+</div>
 
 
 
