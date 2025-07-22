@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stacks
 
 ### Language
 
@@ -36,7 +36,7 @@
   <img width="10" />
 </div>
 
-### Framework / Tools
+### Frameworks / Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
